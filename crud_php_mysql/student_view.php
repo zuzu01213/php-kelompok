@@ -30,7 +30,7 @@ $query = "SELECT * FROM student ORDER BY nim ASC";
       <ul>
         <li><a href="student_view.php">Tampil</a></li>
         <li><a href="student_add.php">Tambah</a></li>
-        <li><a href="logout.php">Logout</a></li>
+        <li><a href="logout.php">Keluar</a></li>
       </ul>
     </nav>
     <?php
