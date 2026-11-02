@@ -23,7 +23,7 @@ $query = "SELECT * FROM student ORDER BY nim ASC";
 <body>
   <div class="container">
     <div id="header">
-      <h1 id="logo">Data Mahasiswa</h1>
+      <h1 id="logo">Daftar Data Mahasiswa</h1>
     </div>
     <hr>
     <nav>
