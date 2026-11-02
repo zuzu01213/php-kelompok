@@ -48,12 +48,12 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Data Mahasiswa</title>
+  <title>Login Admin</title>
   <link rel="stylesheet" href="assets/login.css">
 </head>
 <body>
   <div class="container">
-    <h1>Data Mahasiswa</h1>
+    <h1>Login Admin</h1>
     <?php
       if ($error_message !== "")
         echo "<div class='error'>$error_message</div>";
