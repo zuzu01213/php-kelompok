@@ -48,7 +48,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Data Mahasiswa</title>
+  <title>Login Admin</title>
   <link rel="stylesheet" href="assets/login.css">
 </head>
 <body>
