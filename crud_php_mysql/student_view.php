@@ -28,7 +28,9 @@ $query = "SELECT * FROM student ORDER BY nim ASC";
     <hr>
     <nav>
       <ul>
-        <li><a href="student_view.php">Tampil</a></li>
+        <li><a href="student_view.php">Tampilan
+          
+        </a></li>
         <li><a href="student_add.php">Tambah</a></li>
         <li><a href="logout.php">Logout</a></li>
       </ul>
